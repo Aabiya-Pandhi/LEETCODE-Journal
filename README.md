@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Aabiya-Pandhi/LEETCODE-Journal/tree/master/0067-add-binary) |
 ## Quicksort
 |  |
 | ------- |
